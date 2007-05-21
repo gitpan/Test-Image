@@ -26,7 +26,7 @@ use warnings;
 
 use vars qw($VERSION @STANDARD_PLUGINS @EXPORT);
 
-$VERSION = "0.01";
+$VERSION = "0.02";
 
 use Carp qw(croak);
 
